@@ -3,6 +3,8 @@
 This project implements an image recognition algorithm based on Graph Neural Networks (GNN) using the MNIST dataset.
 
 ## Project Structure
+
+
 project/
 │
 ├── data/
