@@ -3,8 +3,6 @@
 This project implements an image recognition algorithm based on Graph Neural Networks (GNN) using the MNIST dataset.
 
 ## Project Structure
-
-# 项目结构
 ```
 project/
 │
@@ -25,7 +23,6 @@ project/
 ├── requirements.txt
 └── README.md
 ```
-
 - `data/`: Contains data loading scripts.
 - `models/`: Contains model definitions.
 - `train.py`: Script for training the model.
