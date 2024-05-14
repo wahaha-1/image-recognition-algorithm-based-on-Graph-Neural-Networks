@@ -21,7 +21,7 @@ This project implements an image recognition algorithm based on Graph Neural Net
 
 Install the requirements using:
 
--pip install -r requirements.txt
+- 'pip install -r requirements.txt'
 
 
 ### Training
