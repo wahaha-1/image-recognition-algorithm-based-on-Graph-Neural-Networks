@@ -4,7 +4,6 @@ This project implements an image recognition algorithm based on Graph Neural Net
 
 ## Project Structure
 
-
 project/
 │
 ├── data/
@@ -23,6 +22,7 @@ project/
 │
 ├── requirements.txt
 └── README.md
+
 
 
 - `data/`: Contains data loading scripts.
